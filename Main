@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>resume</title>
+</head>
+<style>
+
+body {background-color: lightblue}
+h1 {color: darkgreen}
+.nameDiv {
+  border: 5px outset green;
+  background-color: white;    
+  text-align: center; 
+  }
+  
+.infoDiv {
+  border: green;
+  background-color: white;    
+  text-align: center;
+  }
+</style>
+
+<div class="nameDiv">
+<h1><center>First Last</h1>
+</div>
+<div class="infoDiv">
+<p><center>Irvine, CA | email@gmail.com | xxx-xxx-xxx</center></p></div>
+<h2>Major Related Experience</h2>
+<p align=right> Month Year</p align=right>
+<h3><b>Position 1 | Location</b> </h3>
+<p>-Position description<br>-Position description<br>-Position description</p>
+<p align=right> Month Year</p align=right>
+<h3><b>Position 2 | Location</b> </h3>
+<p>-Position description<br>-Position description<br>-Position description</p>
+<hr>
+<h2>Other Experience</h2>
+<p align=right> Month Year</p align=right>
+<h3><b>Position 1 | Location</b> </h3>
+<p>-Position description<br>-Position description<br>-Position description</p>
+<p align=right> Month Year</p align=right>
+<h3><b>Position 2 | Location</b> </h3>
+<p>-Position description<br>-Position description<br>-Position description</p>
+<hr>
+<h2>Skills</h2>
+<p>Skill1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skill2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skill3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skill4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skill5</p>
+
+</body>
+</html>
